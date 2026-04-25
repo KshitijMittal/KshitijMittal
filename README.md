@@ -1,15 +1,57 @@
-## Kshitij Mittal - 2nd-year CS (AI/ML) student 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  HEADER WAVE — capsule-render                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=160&section=header&text=Kshitij%20Mittal&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20in%20progress&descSize=16&descAlignY=78&descFontColor=9F9F9F" width="100%" />
+</p>
 
-So far: a CV system for rural child health screening in India, an LLM agent that scored **0.80 at Meta's AI competition**, and a CNN that taught me more about augmentation tradeoffs than about plant seedlings.
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  ANIMATED TYPING TAGLINE — readme-typing-svg                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+LLM+agents+that+do+real+things.;Computer+vision+for+rural+health+screening.;2nd-year+CS+(AI%2FML)+%40+IILM+University.;Open+to+AI%2FML+internships." alt="Typing SVG" />
+</p>
 
-Still figuring things out. Building anyway.
-<br>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  QUICK LINKS ROW                                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <a href="https://linkedin.com/in/kshitijmittal07">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:kshitijmittal2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=KshitijMittal&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
-### 🛠 Stack
+## 👋 About me
 
-**Core**
+I'm a 2nd-year CS student specialising in AI/ML, building things that (hopefully) matter.
+
+So far: a **CV system for rural child health screening** in India, an **LLM agent** that scored **0.80 on Medium difficulty** at Meta's AI agent competition, and a **CNN** that taught me more about augmentation tradeoffs than about plant seedlings.
+
+I care about systems that work in the real world — not just notebooks that pass. I'm most interested in LLMs, computer vision, and the gap between a model that works and one that ships.
+
+Currently looking for an **AI/ML or Data Engineering internship** where I can build something real and learn fast.
+
+---
+
+## 🔭 What I'm working on
+
+- 🧪 Wrapping my House Price model in a **Flask API** — making it actually deployable, not just a notebook
+- 📖 Going deeper on **LLM evaluation frameworks** — prompted by what I saw scoring at Meta
+- 🛠 Improving the **Vision Shield** pipeline's accuracy and edge-case handling
+
+---
+
+## 🛠 Stack
+
+**Core ML / DL**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -17,14 +59,14 @@ Still figuring things out. Building anyway.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**LLM & Deployment**
+**LLMs & Deployment**
 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Groq API](https://img.shields.io/badge/Groq%20API%20%28Llama%203.1%29-F55036?style=for-the-badge&logo=meta&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq%20%28Llama%203.1%29-F55036?style=for-the-badge&logo=meta&logoColor=white)
 
-**Vision**
+**Computer Vision**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-27AE60?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
@@ -35,36 +77,38 @@ Still figuring things out. Building anyway.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<br>
-
 ---
 
-### 📌 Projects
+## 📌 Projects
 
 | Project | What it does | Result |
 |---|---|---|
-| [**Expense Audit Agent**](https://github.com/KshitijMittal/expense-audit-env) | LLM agent auditing employee expenses against company policy — built for Meta's AI agent competition. Wrote `inference.py`, Dockerfile, and Hugging Face Spaces deployment end-to-end. | 0.67 Easy · **0.80 Medium** · 0.78 Hard |
-| [**Vision Child Wellness Shield**](https://github.com/KshitijMittal/Vision-Based-Child-Wellness-Shield) | Non-invasive BMI estimation from camera feeds using MediaPipe Pose + pixel-to-cm calibration. Targets rural health screening under India's Mid-Day Meal Scheme. | Sole developer, `cv-development` branch |
-| [**Plant Seedling Classification**](https://github.com/KshitijMittal/Plant-Seedling-Classification) | 3-block CNN classifying 12 species across ~4,750 images. Includes a deliberate study of augmentation tradeoffs — not just a baseline run. | ~70% baseline accuracy |
-| [**House Price Prediction**](https://github.com/KshitijMittal/House-Price-Prediction) | End-to-end ML pipeline on 1,460 samples · 81 features. Deliberate imputation strategy + top 6 feature selection. | R² ≈ 0.79 |
-
-<br>
+| [**🤖 Expense Audit Agent**](https://github.com/KshitijMittal/expense-audit-env) | LLM agent auditing employee expenses against company policy — built for **Meta's AI Agent Hackathon (2025)**. Owned `inference.py`, Dockerfile, and full Hugging Face Spaces deployment via Docker + Groq API (Llama 3.1). | **0.80 Medium** · 0.78 Hard · 0.67 Easy |
+| [**👁 Vision Child Wellness Shield**](https://github.com/KshitijMittal/Vision-Based-Child-Wellness-Shield) | Non-invasive BMI estimation from live camera feeds using MediaPipe Pose + pixel-to-cm calibration. Built for rural health screening under India's Mid-Day Meal Scheme. Sole developer on `cv-development` branch. | `[ADD: error margin or test result]` |
+| [**🌱 Plant Seedling Classification**](https://github.com/KshitijMittal/Plant-Seedling-Classification) | 3-block CNN classifying 12 species across ~4,750 images. Deliberately studied augmentation tradeoffs — found conditions where augmentation hurt generalisation. | ~70% baseline accuracy |
+| [**🏠 House Price Prediction**](https://github.com/KshitijMittal/House-Price-Prediction) | End-to-end ML pipeline on 1,460 samples · 81 features. Deliberate imputation strategy + top-6 feature selection. Flask API wrapper in progress. | R² ≈ 0.79 |
 
 ---
 
-### 📊 Stats
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KshitijMittal&theme=dark&hide_border=true&layout=compact&langs_count=10&size=35&bg_color=0D1117&title_color=FFFFFF&text_color=9F9F9F" width="400" />
+<!-- Stats + Streak side by side -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KshitijMittal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=9F9F9F&icon_color=58A6FF&rank_icon=github" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KshitijMittal&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" height="170" />
 </p>
 
-<br>
+<!-- Activity Graph — full width -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KshitijMittal&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true" width="95%" />
+</p>
 
 ---
 
-### 📬 Let's talk
-
-Looking for an AI/ML or data engineering internship where I can contribute to something real and learn fast.
-If you want to talk about LLMs or see the work — reach me at **kshitijmittal2007@gmail.com** or on [LinkedIn](https://linkedin.com/in/kshitijmittal07).
-
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  FOOTER WAVE                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=100&section=footer" width="100%" />
+</p>
